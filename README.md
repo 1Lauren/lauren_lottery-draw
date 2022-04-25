@@ -2,6 +2,7 @@
 Lottery Draw for QBCore
 
 Features;
+
 • It saves the data to the people who buy the ticket.
 • You can delete the saved tickets from the menu.
 • The main winner and the reserve winner are determined at random.
