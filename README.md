@@ -20,10 +20,8 @@ Requirements;
 Adjustments;
 
 1. We are installing lottery.sql
-2. 
-3. Create item named ticket.
-4. 
-5. In qb-inventory app.js we add the following to the FormatItemInfo function.
+2. Create item named ticket.
+3. In qb-inventory app.js we add the following to the FormatItemInfo function.
     https://codeshare.io/4eQpEd
     (https://i.imgur.com/yUwSJzD.png)
     
