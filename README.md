@@ -30,4 +30,4 @@ Adjustments;
 
 Lauren Development
 
-https://discord.gg/fjZwXqd7UJ
+https://discord.gg/cNWkGqUYk4
